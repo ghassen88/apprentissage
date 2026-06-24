@@ -74,4 +74,24 @@ public class EmployeeService {
 
         }
     }
+
+
+    /*
+
+    🧠 ❓ Question 1 — Top 3 global + contraintes multiples
+
+👉 Trouve les 3 meilleurs employés (performanceScore) mais avec ces règles :
+
+âge entre 25 et 40
+département = "IT" ou "Finance"
+exclure les employés dont le nom commence par "A"
+sans Stream
+
+💡 Ce que ça teste :
+
+filtrage multiple
+conditions complexes
+tri manuel
+top N
+     */
 }
